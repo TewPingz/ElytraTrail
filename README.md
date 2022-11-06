@@ -1,5 +1,8 @@
 # Elytra Trail Plugin (Tested with 1.19.2)
 
+###### If you want to use the plugin and do not know how to compile it go [here](https://github.com/TewPingz/ElytraTrail/releases/tag/Build) and download!
+
+
 This is a plugin made for 1.19.2 that allows you to add elytra trails using items. 
 This effect can be seen in the following GIF.
 
