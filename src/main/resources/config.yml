@@ -1,0 +1,12 @@
+use-permission: false
+permission: elytratrail.active
+trail-items: # https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+  - DIAMOND
+  - GOLD_INGOT
+  - IRON_INGOT
+  - COPPER_INGOT
+  - NETHERITE_INGOT
+  - PRISMARINE
+  - PRISMARINE_CRYSTALS
+  - DRAGON_EGG
+  - HEART_OF_THE_SEA

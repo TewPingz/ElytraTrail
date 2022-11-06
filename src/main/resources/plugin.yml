@@ -1,0 +1,7 @@
+name: ElytraTrail
+version: '${project.version}'
+main: me.tewpingz.elytratrail.elytratrail.ElytraTrail
+api-version: 1.19
+authors: [ TewPingz ]
+description: A plugin that allows you to configure a cool elytra trail
+website: https://www.tewpingz.me
